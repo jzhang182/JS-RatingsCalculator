@@ -7,11 +7,11 @@
 body {
   font-family: Helvetica, Arial, sans-serif;
   width: 450px;
-  border: 2px solid #9baaad;
+  border: 2px solid #3c626b;
 }
 
 header, footer {
-  background-color: #b6c0c2;
+  background-color: #123a44;
   color: white;
   padding: 10px 5px;
 }
